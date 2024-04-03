@@ -19,6 +19,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     min-height: 100vh;
     width: 100%;
+    background-color: green;
     font-family: ${fontFamily.default};
     font-size: ${fontBase.fontSize};
     font-weight: ${fontWeight.regular};
